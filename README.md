@@ -13,12 +13,12 @@ Most repositories also changed their names, so here is a list with links to all 
 | `distr_systems` | [`parallel-computing/distributed-systems`](https://gitlab.com/ruro-courses/parallel-computing/distributed-systems) |
 |      `numsolve` | [`numerical-methods/linear-solvers`](https://gitlab.com/ruro-courses/numerical-methods/linear-solvers)             |
 |     `numsolve2` | [`numerical-methods/differential-solvers`](https://gitlab.com/ruro-courses/numerical-methods/differential-solvers) |
-|        `prac-c` | [`other/c-assembler-cpp`](https://gitlab.com/ruro-courses/other/c-assembler-cpp)                                   |
-|      `workshop` | [`other/operating-systems`](https://gitlab.com/ruro-courses/other/operating-systems)                               |
-|    `ProjectSix` | [`other/dynamic-assembly`](https://gitlab.com/ruro-courses/other/dynamic-assembly)                                 |
-|     `ProjectRB` | [`other/rbasic-interpreter`](https://gitlab.com/ruro-courses/other/rbasic-interpreter)                             |
-|     `ProjectCG` | [`other/computer-graphics`](https://gitlab.com/ruro-courses/other/computer-graphics)                               |
-|       `qbe_ssa` | [`other/qbe-compiler-ssa`](https://gitlab.com/ruro-courses/other/qbe-compiler-ssa)                                 |
+|        `prac-c` | [`computer-science/c-assembler-cpp`](https://gitlab.com/ruro-courses/computer-science/c-assembler-cpp)             |
+|      `workshop` | [`computer-science/operating-systems`](https://gitlab.com/ruro-courses/computer-science/operating-systems)         |
+|    `ProjectSix` | [`computer-science/dynamic-assembly`](https://gitlab.com/ruro-courses/computer-science/dynamic-assembly)           |
+|     `ProjectRB` | [`computer-science/rbasic-interpreter`](https://gitlab.com/ruro-courses/other/rbasic-interpreter)                  |
+|     `ProjectCG` | [`computer-graphics/bachelor`](https://gitlab.com/ruro-courses/computer-graphics/bachelor)                         |
+|       `qbe_ssa` | [`computer-science/qbe-compiler-ssa`](https://gitlab.com/ruro-courses/computer-science/qbe-compiler-ssa)           |
 |      `pybasics` | [`other/python-basics`](https://gitlab.com/ruro-courses/other/python-basics)                                       |
 
 If the repository you are looking for is not in this list, contact me at [`ruro.ruro@ya.ru`](mailto:ruro.ruro@ya.ru).
